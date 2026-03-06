@@ -1,2 +1,19 @@
-# portfolio-data-isselmou
-Portfolio Data (Statistiques, Économétrie, Data Science/ML) – projets académiques et appliqués.
+portfolio-data-isselmou/
+  README.md
+  01-non-scolarisation/
+    README.md
+    notebooks/
+    figures/
+    data/README.md
+    report.pdf
+  02-kaldor-dashboard/
+    README.md
+    powerbi/
+    figures/
+    report.pdf
+  03-ml-sante-ou-facteurs-humains/
+    README.md
+    notebooks/
+    figures/
+    data/README.md
+    report.pdf
